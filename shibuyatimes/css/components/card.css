@@ -1,0 +1,43 @@
+.card {
+	/*width:  450px;*/
+	
+	/*margin: 100px;*/
+	padding: 20px;
+	background-color: #F5F5F5;
+	border: none;
+	border-radius: 15px;
+
+
+}
+
+.card-text {
+	padding:  10px 0;
+}
+
+.card-text p {
+	font-family: Lato;
+	font-style: lighter;
+
+
+}
+
+.card-text h2 {
+	font-family: Lato;
+	font-weight: 700;
+
+
+}
+
+.card-img {
+	border-radius: 30px;
+}
+
+.card-button {
+	color: #F93F23;
+
+}
+
+.card-button:hover {
+	color: #292929;
+
+}

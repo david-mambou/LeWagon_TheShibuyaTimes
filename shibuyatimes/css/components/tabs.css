@@ -1,0 +1,18 @@
+.tabs {
+	display: flex;
+	
+	justify-content: left;
+	flex-grow: .8;
+	
+	
+}
+
+.tabs-item {
+	text-align: center;
+	font-family: Lato;
+	font-weight: 300;
+	align-items: center;
+	padding:  20px 10px 0;
+
+}
+
